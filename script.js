@@ -1,6 +1,6 @@
 const correctImages = [
-    { src: "images/bear.jpg", label: "bear" },
-    { src: "images/cat.png", label: "cat" },
+    { src: "images/bear.jpg", label: "brown bear, bruin, Ursus arctos" },
+    { src: "images/cat.png", label: "tabby, tabby cat" },
     { src: "images/orange.jpg", label: "orange" }
   ];
   
